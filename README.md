@@ -1,6 +1,7 @@
 # Notion to Markdown Exporter
 
-Automatically fetch scheduled Notion posts in a specific database and export them as Markdown files to folders.
+Automatically fetch posts from a specific Notion database based on customizable filters, convert them into clean Markdown files, and save them locally.
+This makes it easy to reuse your content across different publishing platforms by simply copying and pasting the generated Markdown.
 
 ## Features
 
