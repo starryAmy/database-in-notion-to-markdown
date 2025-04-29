@@ -28,8 +28,8 @@ Note: posts/ is the default output folder. You can customize it.
 1. Clone this Repository
 
 ```bash
-git clone https://github.com/your-username/notion-to-md-template.git
-cd notion-to-md-template
+git clone https://github.com/starryAmy/database-in-notion-to-markdown.git
+cd database-in-notion-to-markdown
 ```
 
 2. Set Up Environment Variables
